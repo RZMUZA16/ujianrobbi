@@ -31,7 +31,7 @@ public class BODY {
                 System.out.println("tinggi = " + r.tinggi);
                 System.out.println("luas = " + r.luas);
                 System.out.println("volume =" + r.volume);
-                    if (r.luas <20.000 ){
+                    if (r.luas <20000 ){
                         System.out.println("nilai cuboid kurang dari batas yaitu " + r.luas);
                     }else {
                         System.out.println("nilai cuboid lebih dari batas yaitu "+ r.luas);
